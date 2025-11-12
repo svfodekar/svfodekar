@@ -113,17 +113,71 @@ I specialize in **multi-tenant SaaS architecture**, **database optimization**, *
 
 ---
 
-## 🧑‍💻 Featured Open Source Projects
-
-| 🚀 Project | 🌟 Description |
-|-------------|----------------|
-| 🔄 **Redirect to Local Server (Chrome Extension)** | Redirects API calls from live frontend to local server, enabling seamless in-browser testing and debugging. |
-| 🧰 **Git-Postman-Sync Engine (Desktop App)** | Synchronizes Postman collections with GitHub repos for version control and CI-based test validation. |
-| 📊 **Excel-as-Database (NPM Package)** | Transforms Excel sheets into a lightweight database layer with SQL-like query capabilities in Node.js. |
-| 👥 **Multi-Users Switch (Chrome Extension)** | Facilitates instant account switching without logout — ideal for QA testers and multi-role users. |
-| 💡 **Smart JSON Formator (Web App)** | Clean, developer-friendly JSON formatter supporting validation, minify/beautify, and dark mode. |
+## 🧑‍💻 Featured Open Source Projects  
 
 ---
+
+### 🔄 Redirect to Local Server (Chrome Extension)  
+A powerful Chrome Extension that redirects API calls from production or staging frontends to your **local backend** — enabling **real-time debugging**, **API interception**, and **mock testing** directly in the browser.  
+Ideal for developers working with frontend-backend integrations, this extension simplifies debugging without needing to modify live environments.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Chrome-Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Category-Developer%20Tools-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tech-JavaScript-blue?style=for-the-badge"/>
+</p>
+
+---
+
+### 🧰 Git-Postman-Sync Engine (Desktop App)  
+A **cross-platform desktop tool** that synchronizes Postman collections with GitHub repositories to maintain version-controlled API documentation and test suites.  
+It enables teams to automatically push and pull Postman updates, ensuring **CI/CD consistency**, **API traceability**, and improved developer collaboration.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Desktop%20App-Electron-blueviolet?style=for-the-badge&logo=electron&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Integration-Postman-orange?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sync-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+### 📊 Excel-as-Database (NPM Package)  
+An open-source **Node.js library** that transforms Excel spreadsheets into a **lightweight SQL-like database engine**, enabling developers to perform CRUD operations and complex queries effortlessly.  
+This tool is perfect for developers needing quick, file-based data storage and retrieval — without setting up a full database system.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/NPM-Package-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Language-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Use%20Case-Lightweight%20DB-blue?style=for-the-badge"/>
+  <a href="https://www.npmjs.com/package/excel-as-database"><img src="https://img.shields.io/badge/View%20on%20NPM-ff0000?style=for-the-badge&logo=npm&logoColor=white"/></a>
+</p>
+
+---
+
+### 👥 Multi-Users Switch (Chrome Extension)  
+A **browser extension** that allows instant switching between multiple logged-in accounts — no sign-outs, no cookie fiddling.  
+Especially useful for **QA testers**, **admins**, and **developers** handling multiple environments or user roles in testing workflows.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Chrome-Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Productivity-Tool-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Language-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+---
+
+### 💡 Smart JSON Formator (Web App)  
+A **lightweight, ad-free web tool** for formatting, validating, minifying, and beautifying JSON with instant visual feedback.  
+Designed for developers, it supports **dark mode**, **syntax highlighting**, and **error detection** — providing a distraction-free experience when working with JSON data.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Web%20App-Deployed-blue?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Technology-HTML%2FCSS%2FJS-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Developer%20Utility-purple?style=for-the-badge"/>
+</p>
+
+---
+
 
 ## 📈 GitHub Overview
 
